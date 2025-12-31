@@ -1,21 +1,26 @@
 # Hi there, I'm Mathurakshi Mahendrarajah 👋
 
 ## 🚀 About Me
-I'm a 3rd-year Computer Engineering student with a strong interest in **AI, Data Science, Machine Learning, Deep Learning, and Generative AI**.  
-Currently building **real-world projects** to prepare for AI Engineer internships.  
+I am a third-year Computer Engineering undergraduate with strong skills in **software development** and a passion for **Machine Learning, Artificial Intelligence, and Generative AI**.  
+I work on building applications integrating AI-powered solutions, including **RAG-based systems** and domain-specific NLP pipelines.
 
-I focus on leveraging AI, Machine Learning, and Deep Learning to solve real-world problems, including:
-- Natural Language Processing (NLP) and text understanding
-- Large and Small Language Models (LLMs/SLMs) and efficient fine-tuning (LoRA/PEFT)
-- Predictive modeling and data-driven decision-making
-- Building deployable and scalable AI solutions
-
-Currently learning and exploring:
-- RAG-powered AI systems and intelligent agents
+I focus on applying AI and software development skills to solve complex problems, build interactive applications, and explore innovative technologies.  
 
 ---
 
 ## 🛠️ Skills & Tools
+
+**Programming Languages:** Python, C++, Java, JavaScript  
+
+**Machine Learning & AI:** Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow/Keras, PyTorch, LangChain, LLM, SLM, RAG  
+
+**Web Development:** Streamlit, Flask, Gradio, Flutter, Spring Boot, Firebase, MySQL  
+
+**Cloud & Deployment:** Docker, AWS (basic)  
+
+**Version Control & Tools:** Git & GitHub, Jupyter Notebook, Google Colab, VS Code  
+
+**Soft Skills:** Problem Solving, Team Collaboration, Fast Learner, Adaptability, Communication  
 
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -32,10 +37,6 @@ Currently learning and exploring:
   <img width="30"/>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="60" height="60"/>
-  </a>
-  <img width="30"/>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="60" height="60"/>
   </a>
   <img width="30"/>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
@@ -61,45 +62,11 @@ Currently learning and exploring:
 
 ---
 
-## 📚 Projects
-
-### 1️⃣ Domain-Specific Medical Note Summarization (LoRA + T5-small) 🔜
-- Fine-tuned T5-small with LoRA for generating concise, context-aware summaries of medical text  
-- Dataset: PubMed Article Summarization  
-- Focus: Efficient parameter tuning, low compute, domain-specific NLP  
-- Skills: NLP, LoRA, HuggingFace, Transformers, T5, text preprocessing  
-
-### 2️⃣ AI News Intelligence System (RAG + LangChain) 🟡
-- Built an AI tool to fetch and summarize AI updates from news articles  
-- Tech: LangChain, OpenAI API, Streamlit, FAISS for retrieval  
-- Focus: LLM integration with RAG for real-time knowledge retrieval  
-- Skills: LLM, RAG, LangChain, OpenAI API, vector databases  
-
-### 3️⃣ House Price Prediction (Regression, AWS Deployment) ✅
-- Built and deployed a regression model to predict house prices  
-- Tech: Python, Scikit-learn, Pandas, AWS  
-- Focus: Regression modeling, data preprocessing, deployment  
-- Skills: Regression, feature engineering, deployment  
-
-### 4️⃣ Credit Card Fraud Detection (Classification) ✅
-- Built a real-world ML model to detect fraudulent transactions  
-- Tech: Python, Scikit-learn, XGBoost, Pandas  
-- Focus: Data preprocessing, handling imbalanced datasets, model evaluation  
-- Skills: Classification, feature engineering, SMOTE, ROC/AUC analysis  
-
-### 5️⃣ Pneumonia Detection (Computer Vision, CNN) ✅
-- Built a CNN model to detect pneumonia from chest X-ray images  
-- Tech: Python, PyTorch, CNNs  
-- Focus: Image classification, model training and evaluation  
-- Skills: CNN, CV, PyTorch, data augmentation  
-
----
-
 ## 📈 What I’m Learning
 - Advanced LoRA and PEFT techniques for SLMs  
 - Building **RAG-powered AI systems**  
 - Fine-tuning models for **domain-specific NLP tasks**  
-- Deploying ML/AI models on cloud platforms  
+- Continuous learning in software development and cloud-based deployments  
 
 ---
 
@@ -109,6 +76,7 @@ Currently learning and exploring:
 <a href="https://github.com/MathurakshiMahendrarajah">
   <img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png"/>
 </a>
+
 ---
 
-> “Focused on practical AI/ML applications and real-world problem-solving, with an emphasis on efficiency, domain adaptation, and deployable models.”
+> “Focused on practical AI/ML applications and software development, solving real-world problems, and continuously learning to innovate.”
